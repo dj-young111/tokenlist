@@ -18,11 +18,11 @@
     {
       "chainId": 256,
       "address": "0xF85EB275A165a804a5E7332562eaE885282b393B",
-      "name": "TT"
+      "name": "TT",
       "symbol": "TT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-    },
+    }
   ],
   "version": {
     "major": 0,
