@@ -1,27 +1,43 @@
 {
-  "name": "Compound",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "name": "mokaswap",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg",
   "keywords": [
-    "compound",
+    "mokaswap",
     "defi"
   ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "timestamp": "2020-12-18T12:37:57.000+00:00",
   "tokens": [
     {
-      "chainId": 256,
-      "address": "0xAA7B7098659bF367e41534B6d81661409BA125b6",
-      "name": "TT",
-      "symbol": "TT",
+      "chainId": 128,
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "name": "Heco-Peg HBTC Token",
+      "symbol": "HBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
     },
     {
-      "chainId": 256,
-      "address": "0xF85EB275A165a804a5E7332562eaE885282b393B",
-      "name": "TT",
-      "symbol": "TT",
+      "chainId": 128,
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "name": "Heco-Peg HETH Token",
+      "symbol": "HBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0xBF3dA9338712361caA0100D5a7975D90cDf11Dfc",
+      "name": "Heco-Peg HIDT Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0xE9e7fA3DAA57464c669aA203399221e576932129",
+      "name": "Heco-Peg HGET Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
     }
   ],
   "version": {
