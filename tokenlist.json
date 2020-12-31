@@ -19,7 +19,7 @@
       "chainId": 128,
       "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
       "name": "Heco-Peg HETH Token",
-      "symbol": "HBTC",
+      "symbol": "HETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
     },
@@ -27,7 +27,7 @@
       "chainId": 128,
       "address": "0xBF3dA9338712361caA0100D5a7975D90cDf11Dfc",
       "name": "Heco-Peg HIDT Token",
-      "symbol": "HBTC",
+      "symbol": "HIDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
     },
@@ -35,7 +35,7 @@
       "chainId": 128,
       "address": "0xE9e7fA3DAA57464c669aA203399221e576932129",
       "name": "Heco-Peg HGET Token",
-      "symbol": "HBTC",
+      "symbol": "HGET",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
     }
